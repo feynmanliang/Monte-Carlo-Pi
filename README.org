@@ -1,3 +1,4 @@
 * Monte Carlo PI
-** By Feynman Liang <feynman.liang@gmail.com>
+  By Feynman Liang <feynman.liang@gmail.com>
+
   This program will simulate a value for Pi by creating a square and selecting random points on the square using Python's random library and then counting the number of points which fall within a circle circumscribed inside the square.
