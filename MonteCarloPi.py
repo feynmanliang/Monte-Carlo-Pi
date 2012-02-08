@@ -1,6 +1,6 @@
 # MonteCarloPi.py
 # November 15, 2011
-# By: Feynman Liang
+# By: Feynman Liang <feynman.liang@gmail.com>
 
 from random import random
 
